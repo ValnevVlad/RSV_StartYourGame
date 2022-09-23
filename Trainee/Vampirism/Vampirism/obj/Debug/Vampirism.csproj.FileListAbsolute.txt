@@ -1,0 +1,6 @@
+/Users/vladislav/Documents/SourceTree/RSV StartYourGame/Trainee/Vampirism/Vampirism/obj/Debug/Vampirism.csproj.AssemblyReference.cache
+/Users/vladislav/Documents/SourceTree/RSV StartYourGame/Trainee/Vampirism/Vampirism/obj/Debug/Vampirism.csproj.CoreCompileInputs.cache
+/Users/vladislav/Documents/SourceTree/RSV StartYourGame/Trainee/Vampirism/Vampirism/bin/Debug/Vampirism.exe
+/Users/vladislav/Documents/SourceTree/RSV StartYourGame/Trainee/Vampirism/Vampirism/bin/Debug/Vampirism.pdb
+/Users/vladislav/Documents/SourceTree/RSV StartYourGame/Trainee/Vampirism/Vampirism/obj/Debug/Vampirism.exe
+/Users/vladislav/Documents/SourceTree/RSV StartYourGame/Trainee/Vampirism/Vampirism/obj/Debug/Vampirism.pdb
