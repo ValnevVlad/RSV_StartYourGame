@@ -149,6 +149,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 834316137}
   - {fileID: 1650151689}
@@ -292,6 +293,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
@@ -387,6 +389,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -556,6 +559,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2127082305}
   m_RootOrder: 0
@@ -674,6 +678,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Goblin (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4313897689741522389, guid: b7d6ff1ad0cc49c4fbf70e922f2750cb, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 4313897689741522391, guid: b7d6ff1ad0cc49c4fbf70e922f2750cb, type: 3}
       propertyPath: m_FlipX
       value: 0
@@ -756,6 +764,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Goblin (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4313897689741522389, guid: b7d6ff1ad0cc49c4fbf70e922f2750cb, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 4313897689741522391, guid: b7d6ff1ad0cc49c4fbf70e922f2750cb, type: 3}
       propertyPath: m_FlipX
       value: 1
@@ -781,7 +793,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1893675661}
-  m_Layer: 3
+  m_Layer: 6
   m_Name: Goblins
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -798,6 +810,7 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1454873619}
   - {fileID: 2001751456}
@@ -961,6 +974,7 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1029651896}
   m_Father: {fileID: 0}
@@ -1042,6 +1056,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Goblin
       objectReference: {fileID: 0}
+    - target: {fileID: 4313897689741522389, guid: b7d6ff1ad0cc49c4fbf70e922f2750cb, type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 4313897689741522391, guid: b7d6ff1ad0cc49c4fbf70e922f2750cb, type: 3}
       propertyPath: m_FlipX
       value: 1
@@ -1120,6 +1138,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1069663992, guid: e11e4437ddd5ed1419adfe70475022bb, type: 3}
+      propertyPath: m_Mass
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 1069663992, guid: e11e4437ddd5ed1419adfe70475022bb, type: 3}
+      propertyPath: m_Simulated
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7732501872515950786, guid: e11e4437ddd5ed1419adfe70475022bb, type: 3}
       propertyPath: m_Name
       value: FireWizard
@@ -1171,6 +1197,10 @@ PrefabInstance:
     - target: {fileID: 7732501872515950798, guid: e11e4437ddd5ed1419adfe70475022bb, type: 3}
       propertyPath: aim
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 7732501872515950798, guid: e11e4437ddd5ed1419adfe70475022bb, type: 3}
+      propertyPath: jumpPower
+      value: 200
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e11e4437ddd5ed1419adfe70475022bb, type: 3}

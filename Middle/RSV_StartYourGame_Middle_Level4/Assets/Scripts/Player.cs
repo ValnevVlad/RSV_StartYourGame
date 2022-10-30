@@ -28,6 +28,7 @@ public class Player : MonoBehaviour {
     private Collider2D selfCollider;
     private Rigidbody2D selfRigidbody;
     private Transform selfTransform;
+    private SpriteRenderer selfSpriteRenderer;
 
     private Animator selfAnimator;
     private float timeToAction = 0f;
@@ -39,6 +40,8 @@ public class Player : MonoBehaviour {
         selfRigidbody = GetComponent<Rigidbody2D>();
         selfCollider = GetComponent<Collider2D>();
         selfTransform = GetComponent<Transform>();
+        selfSpriteRenderer = GetComponent<SpriteRenderer>();
+
     }
 
     [Serializable] private class Staff {
@@ -87,22 +90,60 @@ public class Player : MonoBehaviour {
         timeToAction = Mathf.Max(minActionCooldown, actionCooldown);
     }
 
-    private void Jump() {
-        //напиши код дл€ прыжка
+    private void Jump()
+    {
+        if (isOnGround)
+        {
+            selfRigidbody.AddForce(new Vector2(0, jumpPower), ForceMode2D.Impulse);
+        }
     }
 
-    private void Move(float horizontalSpeed) {
-        //напиши код дл€ горизонтального перемещени€ главного геро€ (влево/вправо)
+    private void Move(float horizontalSpeed)
+    {
+
+        if (horizontalSpeed == 0)
+        {
+            selfAnimator.SetBool(isMovingBoleanName, false);
+        }
+        else
+        {
+            selfAnimator.SetBool(isMovingBoleanName, true);
+        }
+
+        selfTransform.Translate(horizontalSpeed * speed * Time.deltaTime, 0, 0);
+
+        if (horizontalSpeed > 0)
+        {
+            selfSpriteRenderer.flipX = false;
+        }
+        if (horizontalSpeed < 0)
+        {
+            selfSpriteRenderer.flipX = true;
+        }
     }
 
-    private void Update() {
-        // дл€ настройки анимации используй параметры анимации типа boolean дл€ движени€ и типа trigger дл€ атаки в методе Attack
-        if (timeToAction <= 0) {
-            // Ќапиши код дл€ обработки клавиш отвечающих за перемещение влево/вправо, прыжок (клавиша W) и атаку (клавиша Space)
-            // Ќе забудь добавить код управл€ющий анимаци€ми
-        }  
+    private void Update()
+    {
 
+        if (timeToAction <= 0)
+        {
+
+            if (Input.GetKeyDown(KeyCode.Space))
+            {
+                Attack();
+            }
+            
+            Move(Input.GetAxis(axisHorizontal));
+        }
         timeToAction -= Time.deltaTime;
+    }
+
+    private void FixedUpdate()
+    {
+        if (Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.UpArrow))
+        {
+            Jump();
+        }
     }
 
 }
