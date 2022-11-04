@@ -1,0 +1,315 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff115f155b48484fb97304fc0e973d51, type: 3}
+  m_Name: CameraTestData 3
+  m_EditorClassIdentifier: 
+  testingData:
+  - cameraPosition: {x: -4.19901, y: 5.7031384, z: 0}
+    prevMousePosition: {x: -2.1605368, y: 0.42406803, z: 0}
+    currentMousePosition: {x: 21.235806, y: 17.451159, z: 0}
+  - cameraPosition: {x: 8.775071, y: 1.9229318, z: 0}
+    prevMousePosition: {x: -1.8085448, y: 0.1340785, z: 0}
+    currentMousePosition: {x: 0.8494066, y: -2.322119, z: 0}
+  - cameraPosition: {x: -0.70020556, y: 1.4606323, z: 0}
+    prevMousePosition: {x: -6.451646, y: 5.477671, z: 0}
+    currentMousePosition: {x: -0.15103115, y: 0.57033163, z: 0}
+  - cameraPosition: {x: -5.761251, y: 10.215859, z: 0}
+    prevMousePosition: {x: 0.033650402, y: -5.847136, z: 0}
+    currentMousePosition: {x: 0.2175698, y: 0.20897222, z: 0}
+  - cameraPosition: {x: 2.6892035, y: -11.350776, z: 0}
+    prevMousePosition: {x: -3.9738855, y: -9.261988, z: 0}
+    currentMousePosition: {x: -15.524558, y: 2.6448653, z: 0}
+  - cameraPosition: {x: -11.533799, y: -0.037223402, z: 0}
+    prevMousePosition: {x: 7.8874035, y: 7.8540483, z: 0}
+    currentMousePosition: {x: -5.81855, y: 24.448498, z: 0}
+  - cameraPosition: {x: 19.794916, y: -1.7380948, z: 0}
+    prevMousePosition: {x: -0.8989424, y: -1.7183824, z: 0}
+    currentMousePosition: {x: -2.0435934, y: 1.9444442, z: 0}
+  - cameraPosition: {x: -1.9120106, y: 1.1165055, z: 0}
+    prevMousePosition: {x: -0.63427603, y: -0.99355185, z: 0}
+    currentMousePosition: {x: -12.475987, y: 5.319729, z: 0}
+  - cameraPosition: {x: -6.278061, y: 1.5977145, z: 0}
+    prevMousePosition: {x: -0.29884005, y: -4.4996877, z: 0}
+    currentMousePosition: {x: 0.15135488, y: -1.3353041, z: 0}
+  - cameraPosition: {x: -1.2707275, y: -24.34435, z: 0}
+    prevMousePosition: {x: -0.9919045, y: -8.674808, z: 0}
+    currentMousePosition: {x: 3.4872708, y: 7.0666456, z: 0}
+  - cameraPosition: {x: -0.13452776, y: 0.65967166, z: 0}
+    prevMousePosition: {x: 9.990811, y: -0.6139233, z: 0}
+    currentMousePosition: {x: 13.065656, y: -22.585918, z: 0}
+  - cameraPosition: {x: 0.48190206, y: 2.9404497, z: 0}
+    prevMousePosition: {x: -6.858691, y: -0.52834785, z: 0}
+    currentMousePosition: {x: -9.290553, y: 25.289238, z: 0}
+  - cameraPosition: {x: 1.5241026, y: 7.988528, z: 0}
+    prevMousePosition: {x: -15.187521, y: 8.474199, z: 0}
+    currentMousePosition: {x: -1.2712034, y: -3.0380964, z: 0}
+  - cameraPosition: {x: 25.216146, y: -2.0094872, z: 0}
+    prevMousePosition: {x: -10.541937, y: 5.5504704, z: 0}
+    currentMousePosition: {x: 9.592978, y: -7.959693, z: 0}
+  - cameraPosition: {x: 1.4008013, y: -5.627599, z: 0}
+    prevMousePosition: {x: -20.39661, y: 9.154362, z: 0}
+    currentMousePosition: {x: -1.5121318, y: 3.799116, z: 0}
+  - cameraPosition: {x: -3.4011934, y: -12.069717, z: 0}
+    prevMousePosition: {x: 5.5521164, y: 0.7517427, z: 0}
+    currentMousePosition: {x: -8.58189, y: 11.274137, z: 0}
+  - cameraPosition: {x: -10.407135, y: 1.4292078, z: 0}
+    prevMousePosition: {x: -13.096377, y: -15.964594, z: 0}
+    currentMousePosition: {x: 3.7986171, y: 7.1590333, z: 0}
+  - cameraPosition: {x: -0.23538172, y: 3.2746077, z: 0}
+    prevMousePosition: {x: 10.071791, y: 13.153114, z: 0}
+    currentMousePosition: {x: 9.189561, y: 10.805751, z: 0}
+  - cameraPosition: {x: 0.5435365, y: 3.1067762, z: 0}
+    prevMousePosition: {x: -5.679931, y: 2.9684422, z: 0}
+    currentMousePosition: {x: -8.460713, y: -2.5877326, z: 0}
+  - cameraPosition: {x: -0.19444585, y: -0.61130667, z: 0}
+    prevMousePosition: {x: 1.932487, y: -3.728678, z: 0}
+    currentMousePosition: {x: -3.6341863, y: -9.403586, z: 0}
+  - cameraPosition: {x: -7.3893857, y: 20.5869, z: 0}
+    prevMousePosition: {x: -5.3280344, y: -3.4468658, z: 0}
+    currentMousePosition: {x: 1.7331619, y: 1.0505174, z: 0}
+  - cameraPosition: {x: 15.695313, y: 8.573104, z: 0}
+    prevMousePosition: {x: -5.0939856, y: 6.858298, z: 0}
+    currentMousePosition: {x: -4.433528, y: -3.8519058, z: 0}
+  - cameraPosition: {x: 20.532911, y: -7.19115, z: 0}
+    prevMousePosition: {x: -4.3560076, y: 2.1414776, z: 0}
+    currentMousePosition: {x: 0.34147733, y: -2.1606627, z: 0}
+  - cameraPosition: {x: 8.540225, y: 16.79809, z: 0}
+    prevMousePosition: {x: 18.38523, y: 18.927967, z: 0}
+    currentMousePosition: {x: -26.251507, y: -9.093204, z: 0}
+  - cameraPosition: {x: -2.452786, y: 0.5365426, z: 0}
+    prevMousePosition: {x: -19.645786, y: 2.2750247, z: 0}
+    currentMousePosition: {x: -4.957824, y: -10.867445, z: 0}
+  - cameraPosition: {x: 0.07877152, y: -0.123185165, z: 0}
+    prevMousePosition: {x: 1.9887338, y: 18.768208, z: 0}
+    currentMousePosition: {x: 6.8745656, y: -5.818916, z: 0}
+  - cameraPosition: {x: -2.8191094, y: 4.5611415, z: 0}
+    prevMousePosition: {x: 0.050719358, y: 5.7065253, z: 0}
+    currentMousePosition: {x: 6.7575297, y: -4.2303596, z: 0}
+  - cameraPosition: {x: 7.3477535, y: -1.1343433, z: 0}
+    prevMousePosition: {x: 18.007994, y: -11.781126, z: 0}
+    currentMousePosition: {x: -0.33064917, y: -1.0627509, z: 0}
+  - cameraPosition: {x: -14.068999, y: -2.422978, z: 0}
+    prevMousePosition: {x: -0.0073049134, y: -7.305528, z: 0}
+    currentMousePosition: {x: -5.056221, y: -1.6573997, z: 0}
+  - cameraPosition: {x: 1.9993236, y: 6.9164, z: 0}
+    prevMousePosition: {x: 0.4880101, y: -0.5708236, z: 0}
+    currentMousePosition: {x: -20.948067, y: -6.787609, z: 0}
+  - cameraPosition: {x: -1.9943837, y: 5.732769, z: 0}
+    prevMousePosition: {x: -7.790067, y: 6.1580606, z: 0}
+    currentMousePosition: {x: 2.8889568, y: 6.8554974, z: 0}
+  - cameraPosition: {x: -0.9721671, y: -0.90010464, z: 0}
+    prevMousePosition: {x: 3.1575615, y: 7.8099036, z: 0}
+    currentMousePosition: {x: -4.1006384, y: -6.7260156, z: 0}
+  - cameraPosition: {x: 3.347369, y: -12.502974, z: 0}
+    prevMousePosition: {x: -11.783581, y: -11.95078, z: 0}
+    currentMousePosition: {x: 4.348839, y: 0.749657, z: 0}
+  - cameraPosition: {x: 4.567491, y: -16.340305, z: 0}
+    prevMousePosition: {x: -14.191502, y: -16.808239, z: 0}
+    currentMousePosition: {x: -2.3825085, y: -1.8844447, z: 0}
+  - cameraPosition: {x: -4.6666403, y: -1.4265822, z: 0}
+    prevMousePosition: {x: 2.6363673, y: 5.3130226, z: 0}
+    currentMousePosition: {x: -6.0959625, y: -2.6906822, z: 0}
+  - cameraPosition: {x: -2.8287632, y: -1.8051156, z: 0}
+    prevMousePosition: {x: -3.2068222, y: 2.6306307, z: 0}
+    currentMousePosition: {x: 15.699246, y: -1.8808038, z: 0}
+  - cameraPosition: {x: -9.883543, y: 2.8508964, z: 0}
+    prevMousePosition: {x: 1.5763843, y: 3.9021187, z: 0}
+    currentMousePosition: {x: -11.213287, y: 2.0782745, z: 0}
+  - cameraPosition: {x: 16.275906, y: 4.498782, z: 0}
+    prevMousePosition: {x: 0.35495475, y: 0.48153916, z: 0}
+    currentMousePosition: {x: -4.7793036, y: -14.901173, z: 0}
+  - cameraPosition: {x: 0.2894653, y: -10.724979, z: 0}
+    prevMousePosition: {x: -6.5401025, y: 2.209826, z: 0}
+    currentMousePosition: {x: 11.792908, y: 5.7524753, z: 0}
+  - cameraPosition: {x: 0.25692758, y: 0.0012610852, z: 0}
+    prevMousePosition: {x: 1.0452746, y: -1.2577925, z: 0}
+    currentMousePosition: {x: -14.32323, y: 4.1447206, z: 0}
+  - cameraPosition: {x: -7.5496206, y: -3.925416, z: 0}
+    prevMousePosition: {x: 0.44521755, y: -1.3588438, z: 0}
+    currentMousePosition: {x: 9.59127, y: -19.044592, z: 0}
+  - cameraPosition: {x: -8.219806, y: -0.5298095, z: 0}
+    prevMousePosition: {x: 11.736201, y: -8.56345, z: 0}
+    currentMousePosition: {x: -7.830803, y: 6.539937, z: 0}
+  - cameraPosition: {x: 5.57402, y: 8.870618, z: 0}
+    prevMousePosition: {x: -9.100817, y: 24.976124, z: 0}
+    currentMousePosition: {x: 17.77288, y: 17.574577, z: 0}
+  - cameraPosition: {x: 0.8397743, y: 1.051701, z: 0}
+    prevMousePosition: {x: -3.211758, y: -2.2388115, z: 0}
+    currentMousePosition: {x: 19.624441, y: -2.0334232, z: 0}
+  - cameraPosition: {x: -6.1694894, y: -2.5989041, z: 0}
+    prevMousePosition: {x: -1.3805441, y: -13.575804, z: 0}
+    currentMousePosition: {x: -9.127698, y: -6.907794, z: 0}
+  - cameraPosition: {x: 0.40108836, y: 2.927368, z: 0}
+    prevMousePosition: {x: 2.2773356, y: 0.34377515, z: 0}
+    currentMousePosition: {x: -7.629139, y: 21.74514, z: 0}
+  - cameraPosition: {x: 23.680925, y: 4.2247663, z: 0}
+    prevMousePosition: {x: -11.423406, y: -9.199905, z: 0}
+    currentMousePosition: {x: 10.58063, y: 2.8123932, z: 0}
+  - cameraPosition: {x: 2.3042517, y: -3.6191618, z: 0}
+    prevMousePosition: {x: 7.3889117, y: -10.715684, z: 0}
+    currentMousePosition: {x: -1.0617039, y: -5.443398, z: 0}
+  - cameraPosition: {x: -7.7109942, y: -17.57493, z: 0}
+    prevMousePosition: {x: -0.42015275, y: -0.018367382, z: 0}
+    currentMousePosition: {x: 8.663187, y: 6.0588846, z: 0}
+  - cameraPosition: {x: -0.65435153, y: 2.927007, z: 0}
+    prevMousePosition: {x: -14.088279, y: 10.726247, z: 0}
+    currentMousePosition: {x: 13.062976, y: 3.2812572, z: 0}
+  - cameraPosition: {x: 3.0898123, y: -23.129028, z: 0}
+    prevMousePosition: {x: 4.074776, y: -3.1424587, z: 0}
+    currentMousePosition: {x: -10.955002, y: -10.320908, z: 0}
+  - cameraPosition: {x: 0.3071176, y: 11.838997, z: 0}
+    prevMousePosition: {x: -15.157627, y: 16.905167, z: 0}
+    currentMousePosition: {x: 3.526214, y: 15.783448, z: 0}
+  - cameraPosition: {x: -25.031652, y: -7.498828, z: 0}
+    prevMousePosition: {x: -0.45006582, y: 0.2257728, z: 0}
+    currentMousePosition: {x: -3.7036395, y: -7.295947, z: 0}
+  - cameraPosition: {x: -3.0012758, y: 14.440979, z: 0}
+    prevMousePosition: {x: -1.1309423, y: -0.63882095, z: 0}
+    currentMousePosition: {x: 0.050471198, y: 0.037839945, z: 0}
+  - cameraPosition: {x: 0.10363747, y: -24.392998, z: 0}
+    prevMousePosition: {x: -1.0954698, y: 8.615311, z: 0}
+    currentMousePosition: {x: -1.7205809, y: 2.578493, z: 0}
+  - cameraPosition: {x: -1.6870022, y: 0.74383354, z: 0}
+    prevMousePosition: {x: -12.276407, y: -7.292154, z: 0}
+    currentMousePosition: {x: -3.4465995, y: 1.4436127, z: 0}
+  - cameraPosition: {x: -21.087944, y: 13.247514, z: 0}
+    prevMousePosition: {x: -2.7757635, y: 0.25064108, z: 0}
+    currentMousePosition: {x: -7.0550804, y: -4.422739, z: 0}
+  - cameraPosition: {x: -5.2556496, y: 0.38607812, z: 0}
+    prevMousePosition: {x: 4.6951323, y: 15.707859, z: 0}
+    currentMousePosition: {x: -3.8893638, y: 1.8943895, z: 0}
+  - cameraPosition: {x: 0.8823795, y: 16.405146, z: 0}
+    prevMousePosition: {x: -2.4112525, y: -2.609433, z: 0}
+    currentMousePosition: {x: -6.596175, y: -14.138718, z: 0}
+  - cameraPosition: {x: -11.292892, y: -3.324864, z: 0}
+    prevMousePosition: {x: -0.7847295, y: -8.799417, z: 0}
+    currentMousePosition: {x: 9.349766, y: -18.393803, z: 0}
+  - cameraPosition: {x: 12.847546, y: 12.55285, z: 0}
+    prevMousePosition: {x: -7.5019426, y: 17.468628, z: 0}
+    currentMousePosition: {x: -16.18448, y: 0.18552053, z: 0}
+  - cameraPosition: {x: 0.13737087, y: -9.1374, z: 0}
+    prevMousePosition: {x: -2.527546, y: -1.488859, z: 0}
+    currentMousePosition: {x: -3.6772277, y: 1.7873759, z: 0}
+  - cameraPosition: {x: -0.2232568, y: -0.27773747, z: 0}
+    prevMousePosition: {x: -5.5746145, y: 6.5044274, z: 0}
+    currentMousePosition: {x: -10.712845, y: -16.382626, z: 0}
+  - cameraPosition: {x: -5.767283, y: -2.5825055, z: 0}
+    prevMousePosition: {x: -0.4362904, y: -0.0035550955, z: 0}
+    currentMousePosition: {x: 10.1770525, y: -8.220815, z: 0}
+  - cameraPosition: {x: -1.9163531, y: 21.675463, z: 0}
+    prevMousePosition: {x: -2.2216785, y: 0.98910266, z: 0}
+    currentMousePosition: {x: -1.5730796, y: -0.018236328, z: 0}
+  - cameraPosition: {x: 13.34864, y: -9.714754, z: 0}
+    prevMousePosition: {x: 12.261711, y: -8.960438, z: 0}
+    currentMousePosition: {x: 1.2083105, y: 23.629234, z: 0}
+  - cameraPosition: {x: -3.9386027, y: 1.3767184, z: 0}
+    prevMousePosition: {x: 2.6718495, y: -11.43652, z: 0}
+    currentMousePosition: {x: 6.38447, y: -0.447941, z: 0}
+  - cameraPosition: {x: 14.954503, y: -4.1283846, z: 0}
+    prevMousePosition: {x: -3.775405, y: 2.559317, z: 0}
+    currentMousePosition: {x: -2.4225092, y: -2.7532892, z: 0}
+  - cameraPosition: {x: 18.160452, y: 11.108987, z: 0}
+    prevMousePosition: {x: 3.3839123, y: -7.068275, z: 0}
+    currentMousePosition: {x: 5.95525, y: 20.723957, z: 0}
+  - cameraPosition: {x: -5.1908803, y: -5.1190686, z: 0}
+    prevMousePosition: {x: -2.298146, y: 5.716674, z: 0}
+    currentMousePosition: {x: -1.0925534, y: -6.1555614, z: 0}
+  - cameraPosition: {x: -0.56714195, y: -1.0956855, z: 0}
+    prevMousePosition: {x: 1.0229657, y: -1.0729417, z: 0}
+    currentMousePosition: {x: -0.10739262, y: -0.32781786, z: 0}
+  - cameraPosition: {x: 5.7249875, y: 13.605615, z: 0}
+    prevMousePosition: {x: -15.371162, y: -13.118066, z: 0}
+    currentMousePosition: {x: -4.225918, y: -20.117558, z: 0}
+  - cameraPosition: {x: 11.956289, y: -23.376806, z: 0}
+    prevMousePosition: {x: -0.06843984, y: -11.497824, z: 0}
+    currentMousePosition: {x: -1.4146949, y: -12.286863, z: 0}
+  - cameraPosition: {x: 5.40759, y: 2.9799426, z: 0}
+    prevMousePosition: {x: 0.79468817, y: 9.254672, z: 0}
+    currentMousePosition: {x: 8.465317, y: 0.1275136, z: 0}
+  - cameraPosition: {x: 5.134523, y: 25.982508, z: 0}
+    prevMousePosition: {x: 13.30077, y: -5.0767484, z: 0}
+    currentMousePosition: {x: -5.152244, y: 16.255964, z: 0}
+  - cameraPosition: {x: 16.81635, y: 12.3896, z: 0}
+    prevMousePosition: {x: 7.8384514, y: 4.0571303, z: 0}
+    currentMousePosition: {x: -0.7865376, y: -2.8242893, z: 0}
+  - cameraPosition: {x: 7.947025, y: -0.58295816, z: 0}
+    prevMousePosition: {x: 11.485983, y: 2.888255, z: 0}
+    currentMousePosition: {x: -2.4595346, y: 3.9628067, z: 0}
+  - cameraPosition: {x: 5.163656, y: -0.027401436, z: 0}
+    prevMousePosition: {x: -2.4791632, y: 0.7386667, z: 0}
+    currentMousePosition: {x: -19.959719, y: 12.672922, z: 0}
+  - cameraPosition: {x: 2.4490232, y: 18.788177, z: 0}
+    prevMousePosition: {x: 1.0215889, y: -11.642479, z: 0}
+    currentMousePosition: {x: 7.6219034, y: -12.000298, z: 0}
+  - cameraPosition: {x: -7.5071726, y: 15.610474, z: 0}
+    prevMousePosition: {x: -3.1343985, y: -1.3096118, z: 0}
+    currentMousePosition: {x: 0.14493772, y: -8.129571, z: 0}
+  - cameraPosition: {x: 1.3512889, y: 3.381135, z: 0}
+    prevMousePosition: {x: -2.0405247, y: 0.7040633, z: 0}
+    currentMousePosition: {x: 9.276275, y: 3.8192532, z: 0}
+  - cameraPosition: {x: 6.252836, y: -14.049886, z: 0}
+    prevMousePosition: {x: 2.435266, y: 4.507649, z: 0}
+    currentMousePosition: {x: 6.78412, y: -8.837745, z: 0}
+  - cameraPosition: {x: 0.22942246, y: 0.19900644, z: 0}
+    prevMousePosition: {x: 1.5538815, y: -3.0220587, z: 0}
+    currentMousePosition: {x: 8.405352, y: 6.183943, z: 0}
+  - cameraPosition: {x: -4.5676594, y: 4.1764765, z: 0}
+    prevMousePosition: {x: 2.5219831, y: -3.1784182, z: 0}
+    currentMousePosition: {x: -0.8807778, y: 11.088341, z: 0}
+  - cameraPosition: {x: 7.294669, y: -17.181833, z: 0}
+    prevMousePosition: {x: -1.0036298, y: -2.5771835, z: 0}
+    currentMousePosition: {x: 5.216483, y: -3.1866317, z: 0}
+  - cameraPosition: {x: 1.6960896, y: 4.3411345, z: 0}
+    prevMousePosition: {x: 0.6766506, y: -14.019007, z: 0}
+    currentMousePosition: {x: 0.14137213, y: -0.22674996, z: 0}
+  - cameraPosition: {x: 15.006169, y: 6.8259444, z: 0}
+    prevMousePosition: {x: -3.5462096, y: -8.679191, z: 0}
+    currentMousePosition: {x: -2.151782, y: 3.5102062, z: 0}
+  - cameraPosition: {x: -2.5755603, y: 1.2679492, z: 0}
+    prevMousePosition: {x: -9.097952, y: 10.238598, z: 0}
+    currentMousePosition: {x: -1.6891752, y: 3.9604995, z: 0}
+  - cameraPosition: {x: -3.0585966, y: -7.9296303, z: 0}
+    prevMousePosition: {x: -0.8072356, y: 1.7167276, z: 0}
+    currentMousePosition: {x: 6.9026384, y: 6.6952257, z: 0}
+  - cameraPosition: {x: 14.921769, y: 21.984575, z: 0}
+    prevMousePosition: {x: 2.8768246, y: 0.7678867, z: 0}
+    currentMousePosition: {x: 12.051501, y: -1.9013708, z: 0}
+  - cameraPosition: {x: 10.049206, y: -17.045282, z: 0}
+    prevMousePosition: {x: -2.3266973, y: -9.706067, z: 0}
+    currentMousePosition: {x: 20.821953, y: -18.97782, z: 0}
+  - cameraPosition: {x: -0.8196545, y: 2.8426728, z: 0}
+    prevMousePosition: {x: -12.112433, y: 12.571435, z: 0}
+    currentMousePosition: {x: -5.477768, y: -5.7438498, z: 0}
+  - cameraPosition: {x: 2.0513377, y: 1.2352917, z: 0}
+    prevMousePosition: {x: -4.0285683, y: -4.0356607, z: 0}
+    currentMousePosition: {x: -3.2708344, y: -7.483883, z: 0}
+  - cameraPosition: {x: -5.154889, y: -1.1276766, z: 0}
+    prevMousePosition: {x: -9.762339, y: -2.5663602, z: 0}
+    currentMousePosition: {x: -16.801247, y: -15.282002, z: 0}
+  - cameraPosition: {x: -12.9197445, y: 11.116581, z: 0}
+    prevMousePosition: {x: 12.148463, y: -0.91743326, z: 0}
+    currentMousePosition: {x: 0.40327236, y: 1.4970434, z: 0}
+  - cameraPosition: {x: -15.992727, y: 18.134201, z: 0}
+    prevMousePosition: {x: -9.769093, y: 10.91432, z: 0}
+    currentMousePosition: {x: -2.72363, y: -9.54357, z: 0}
+  - cameraPosition: {x: 0.23294127, y: 1.2632415, z: 0}
+    prevMousePosition: {x: -15.689086, y: 0.60601765, z: 0}
+    currentMousePosition: {x: 7.6948614, y: 8.866646, z: 0}
+  - cameraPosition: {x: 3.2978363, y: 2.1815596, z: 0}
+    prevMousePosition: {x: -2.6694808, y: -12.968921, z: 0}
+    currentMousePosition: {x: -15.754844, y: -11.949924, z: 0}
+  - cameraPosition: {x: 5.4763665, y: 0.5500253, z: 0}
+    prevMousePosition: {x: -0.12943245, y: -13.1596575, z: 0}
+    currentMousePosition: {x: -5.8900695, y: -17.972937, z: 0}
+  - cameraPosition: {x: 25.070906, y: -3.7065115, z: 0}
+    prevMousePosition: {x: 2.3958068, y: -0.41520903, z: 0}
+    currentMousePosition: {x: 2.9540424, y: -1.5713513, z: 0}

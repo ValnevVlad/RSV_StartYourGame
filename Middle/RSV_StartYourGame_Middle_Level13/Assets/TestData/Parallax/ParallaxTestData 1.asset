@@ -1,0 +1,315 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 512c15d2ddd94ac7bd005d41e4f89b55, type: 3}
+  m_Name: ParallaxTestData 1
+  m_EditorClassIdentifier: 
+  testingData:
+  - objectPosition: {x: 3.367411, y: 4.3686814, z: 0}
+    cameraDelta: {x: 1.8454925, y: 11.025397, z: 0}
+    alpha: 10.066307
+  - objectPosition: {x: -0.398137, y: -21.49427, z: 0}
+    cameraDelta: {x: -27.00694, y: -3.6876504, z: 0}
+    alpha: 19.161497
+  - objectPosition: {x: -11.620922, y: 10.940918, z: 0}
+    cameraDelta: {x: -16.166895, y: -6.67462, z: 0}
+    alpha: 27.539446
+  - objectPosition: {x: -9.960817, y: 6.116206, z: 0}
+    cameraDelta: {x: 3.5237443, y: -2.7029855, z: 0}
+    alpha: 19.534819
+  - objectPosition: {x: 10.658596, y: -18.716595, z: 0}
+    cameraDelta: {x: 3.7656796, y: -4.985462, z: 0}
+    alpha: 9.85369
+  - objectPosition: {x: 0.0633253, y: 0.8538607, z: 0}
+    cameraDelta: {x: -5.4681344, y: 2.0778577, z: 0}
+    alpha: 24.52642
+  - objectPosition: {x: -1.8872663, y: 9.620476, z: 0}
+    cameraDelta: {x: 6.3136177, y: 4.630076, z: 0}
+    alpha: 20.68478
+  - objectPosition: {x: -13.84951, y: 8.759406, z: 0}
+    cameraDelta: {x: 0.7572162, y: 0.665985, z: 0}
+    alpha: 28.58807
+  - objectPosition: {x: -0.9173154, y: 1.4642951, z: 0}
+    cameraDelta: {x: -0.28984582, y: 2.285219, z: 0}
+    alpha: 7.013612
+  - objectPosition: {x: 1.969289, y: 2.9204893, z: 0}
+    cameraDelta: {x: -1.4848423, y: -14.171876, z: 0}
+    alpha: 1.989187
+  - objectPosition: {x: 5.855472, y: 13.40508, z: 0}
+    cameraDelta: {x: 2.8884108, y: 1.9445568, z: 0}
+    alpha: 29.849073
+  - objectPosition: {x: 6.1317415, y: -5.54559, z: 0}
+    cameraDelta: {x: 12.194901, y: 1.7176309, z: 0}
+    alpha: 12.399124
+  - objectPosition: {x: -14.268899, y: 1.4274843, z: 0}
+    cameraDelta: {x: 17.968815, y: -3.579589, z: 0}
+    alpha: 19.253082
+  - objectPosition: {x: 2.036809, y: 5.4363656, z: 0}
+    cameraDelta: {x: -0.788832, y: 4.198358, z: 0}
+    alpha: 16.020664
+  - objectPosition: {x: 27.178986, y: -2.9587321, z: 0}
+    cameraDelta: {x: -13.3847, y: 10.750915, z: 0}
+    alpha: 19.861124
+  - objectPosition: {x: 3.4944713, y: -11.675057, z: 0}
+    cameraDelta: {x: -15.235249, y: 11.214242, z: 0}
+    alpha: 24.378613
+  - objectPosition: {x: -8.164098, y: 7.6484637, z: 0}
+    cameraDelta: {x: 10.174476, y: -7.382404, z: 0}
+    alpha: 16.463694
+  - objectPosition: {x: 1.7394233, y: -1.2803015, z: 0}
+    cameraDelta: {x: -0.22543545, y: -0.84364057, z: 0}
+    alpha: 12.1813545
+  - objectPosition: {x: 13.640548, y: -10.386516, z: 0}
+    cameraDelta: {x: -0.28448865, y: 1.2003025, z: 0}
+    alpha: 10.572647
+  - objectPosition: {x: -6.016445, y: 9.99872, z: 0}
+    cameraDelta: {x: 2.3272948, y: 25.197865, z: 0}
+    alpha: 0.38276196
+  - objectPosition: {x: -7.107917, y: 0.8055276, z: 0}
+    cameraDelta: {x: -6.4948883, y: -13.748387, z: 0}
+    alpha: 13.004399
+  - objectPosition: {x: 11.390348, y: 12.460461, z: 0}
+    cameraDelta: {x: 4.878192, y: 0.94238025, z: 0}
+    alpha: 24.071613
+  - objectPosition: {x: 4.3950624, y: 2.2152228, z: 0}
+    cameraDelta: {x: -5.814819, y: 7.8680706, z: 0}
+    alpha: 17.173742
+  - objectPosition: {x: -0.031709295, y: -0.45476928, z: 0}
+    cameraDelta: {x: 14.400394, y: -8.60789, z: 0}
+    alpha: 24.645206
+  - objectPosition: {x: 2.5535073, y: -4.686463, z: 0}
+    cameraDelta: {x: -3.04342, y: 17.213448, z: 0}
+    alpha: 18.02701
+  - objectPosition: {x: -2.7483554, y: 5.9724207, z: 0}
+    cameraDelta: {x: -22.757511, y: 5.662818, z: 0}
+    alpha: 9.06315
+  - objectPosition: {x: -10.749405, y: -8.167354, z: 0}
+    cameraDelta: {x: 3.8907697, y: 6.4439154, z: 0}
+    alpha: 24.413183
+  - objectPosition: {x: -0.77162534, y: 11.261062, z: 0}
+    cameraDelta: {x: 7.97725, y: -27.18673, z: 0}
+    alpha: 28.081602
+  - objectPosition: {x: -12.937839, y: 1.506214, z: 0}
+    cameraDelta: {x: -1.3006747, y: 1.1406054, z: 0}
+    alpha: 7.128203
+  - objectPosition: {x: 16.934473, y: -3.7229655, z: 0}
+    cameraDelta: {x: -1.2236214, y: -1.2040836, z: 0}
+    alpha: 27.185276
+  - objectPosition: {x: -3.452553, y: -12.327599, z: 0}
+    cameraDelta: {x: 11.847484, y: 14.6327305, z: 0}
+    alpha: 24.620293
+  - objectPosition: {x: -1.6933796, y: -22.585402, z: 0}
+    cameraDelta: {x: -13.570627, y: 4.487204, z: 0}
+    alpha: 28.258287
+  - objectPosition: {x: 1.2807658, y: 4.691533, z: 0}
+    cameraDelta: {x: 2.7057922, y: -18.854273, z: 0}
+    alpha: 16.897972
+  - objectPosition: {x: 4.612173, y: -23.27312, z: 0}
+    cameraDelta: {x: 6.1585436, y: -6.2802415, z: 0}
+    alpha: 2.167865
+  - objectPosition: {x: -9.354317, y: 0.1283064, z: 0}
+    cameraDelta: {x: 6.0001616, y: 6.7345405, z: 0}
+    alpha: 2.8527582
+  - objectPosition: {x: -8.590924, y: 16.748346, z: 0}
+    cameraDelta: {x: -22.982344, y: 11.918685, z: 0}
+    alpha: 21.357716
+  - objectPosition: {x: 0.45842254, y: -0.5648414, z: 0}
+    cameraDelta: {x: 1.6152067, y: 6.2840424, z: 0}
+    alpha: 6.1299744
+  - objectPosition: {x: -14.462154, y: 10.762719, z: 0}
+    cameraDelta: {x: 16.475027, y: -6.562687, z: 0}
+    alpha: 26.695555
+  - objectPosition: {x: -1.0831432, y: -4.5420885, z: 0}
+    cameraDelta: {x: -13.778396, y: 11.432169, z: 0}
+    alpha: 2.0352209
+  - objectPosition: {x: -7.5981474, y: -15.580346, z: 0}
+    cameraDelta: {x: 10.103145, y: -5.2132025, z: 0}
+    alpha: 3.9190829
+  - objectPosition: {x: -3.798905, y: 12.404857, z: 0}
+    cameraDelta: {x: 12.064113, y: 13.219835, z: 0}
+    alpha: 21.050222
+  - objectPosition: {x: -0.21651262, y: -0.30844367, z: 0}
+    cameraDelta: {x: 11.1558485, y: -14.78467, z: 0}
+    alpha: 2.0471835
+  - objectPosition: {x: -1.0796584, y: -15.759, z: 0}
+    cameraDelta: {x: -11.166984, y: 23.691925, z: 0}
+    alpha: 9.469691
+  - objectPosition: {x: -13.7588, y: -13.595822, z: 0}
+    cameraDelta: {x: -3.1569777, y: -0.88250005, z: 0}
+    alpha: 23.269861
+  - objectPosition: {x: 9.615374, y: -10.104142, z: 0}
+    cameraDelta: {x: -3.0999897, y: 3.9202847, z: 0}
+    alpha: 16.20712
+  - objectPosition: {x: -3.091586, y: 6.6623077, z: 0}
+    cameraDelta: {x: -9.067043, y: -26.048016, z: 0}
+    alpha: 2.9433525
+  - objectPosition: {x: -2.5951567, y: 17.9978, z: 0}
+    cameraDelta: {x: 3.4955287, y: -3.5199566, z: 0}
+    alpha: 4.750704
+  - objectPosition: {x: -8.445493, y: 9.752924, z: 0}
+    cameraDelta: {x: 0.121027164, y: -2.1977274, z: 0}
+    alpha: 28.972607
+  - objectPosition: {x: 0.4721787, y: 1.3548359, z: 0}
+    cameraDelta: {x: -10.044599, y: 0.8708053, z: 0}
+    alpha: 19.77808
+  - objectPosition: {x: -5.842739, y: 13.135952, z: 0}
+    cameraDelta: {x: 2.215158, y: 0.67748183, z: 0}
+    alpha: 23.066414
+  - objectPosition: {x: -4.5812387, y: -4.855814, z: 0}
+    cameraDelta: {x: 6.1337404, y: -5.403209, z: 0}
+    alpha: 29.313723
+  - objectPosition: {x: 9.894576, y: -7.5504904, z: 0}
+    cameraDelta: {x: 0.74285537, y: 11.925105, z: 0}
+    alpha: 29.79547
+  - objectPosition: {x: 5.6666946, y: -9.215616, z: 0}
+    cameraDelta: {x: 2.0182438, y: -3.9336178, z: 0}
+    alpha: 29.463776
+  - objectPosition: {x: -10.570699, y: 2.8805313, z: 0}
+    cameraDelta: {x: -1.5450782, y: -7.3217688, z: 0}
+    alpha: 6.664199
+  - objectPosition: {x: 4.508465, y: 2.162926, z: 0}
+    cameraDelta: {x: 2.3949988, y: 19.853876, z: 0}
+    alpha: 29.794664
+  - objectPosition: {x: -0.08633545, y: 8.345302, z: 0}
+    cameraDelta: {x: 0.5805998, y: -4.6371145, z: 0}
+    alpha: 7.37571
+  - objectPosition: {x: 1.5891929, y: 0.081598334, z: 0}
+    cameraDelta: {x: -15.954487, y: -9.292127, z: 0}
+    alpha: 2.053796
+  - objectPosition: {x: 9.288428, y: -1.9666201, z: 0}
+    cameraDelta: {x: 9.709604, y: -3.296014, z: 0}
+    alpha: 6.5990853
+  - objectPosition: {x: 8.013227, y: -0.065434754, z: 0}
+    cameraDelta: {x: 23.655104, y: 0.7117698, z: 0}
+    alpha: 24.897377
+  - objectPosition: {x: -3.7286205, y: 7.1129017, z: 0}
+    cameraDelta: {x: -1.6995664, y: 1.3500795, z: 0}
+    alpha: 15.958484
+  - objectPosition: {x: -15.556123, y: 17.906775, z: 0}
+    cameraDelta: {x: -4.95097, y: -0.7169236, z: 0}
+    alpha: 27.04458
+  - objectPosition: {x: 9.777728, y: -4.0759616, z: 0}
+    cameraDelta: {x: -3.5409057, y: 0.48033595, z: 0}
+    alpha: 19.387743
+  - objectPosition: {x: -13.588476, y: 5.657484, z: 0}
+    cameraDelta: {x: -0.49569067, y: -1.9601978, z: 0}
+    alpha: 11.846003
+  - objectPosition: {x: 2.30085, y: 1.567812, z: 0}
+    cameraDelta: {x: -9.704372, y: 5.1414137, z: 0}
+    alpha: 7.36501
+  - objectPosition: {x: -7.4982777, y: -23.709442, z: 0}
+    cameraDelta: {x: 1.4951788, y: -0.018158928, z: 0}
+    alpha: 15.062612
+  - objectPosition: {x: 4.714186, y: 5.55445, z: 0}
+    cameraDelta: {x: 13.246861, y: -9.787166, z: 0}
+    alpha: 15.253321
+  - objectPosition: {x: 2.2511258, y: -2.6917322, z: 0}
+    cameraDelta: {x: 11.653332, y: 7.5847154, z: 0}
+    alpha: 18.858093
+  - objectPosition: {x: 13.85483, y: -3.6653178, z: 0}
+    cameraDelta: {x: -18.209438, y: -18.938107, z: 0}
+    alpha: 14.877242
+  - objectPosition: {x: -2.5360377, y: 2.7307003, z: 0}
+    cameraDelta: {x: 3.4666042, y: -4.406459, z: 0}
+    alpha: 0.054677725
+  - objectPosition: {x: -3.7788591, y: -2.0252843, z: 0}
+    cameraDelta: {x: -2.7785268, y: 27.610624, z: 0}
+    alpha: 9.041542
+  - objectPosition: {x: -7.43146, y: 11.112151, z: 0}
+    cameraDelta: {x: 0.34813654, y: 7.0211425, z: 0}
+    alpha: 3.143803
+  - objectPosition: {x: 15.603222, y: -5.076276, z: 0}
+    cameraDelta: {x: -11.291333, y: -7.4176908, z: 0}
+    alpha: 11.225647
+  - objectPosition: {x: -19.85244, y: 8.4521885, z: 0}
+    cameraDelta: {x: 1.7352448, y: -0.7307642, z: 0}
+    alpha: 1.0076344
+  - objectPosition: {x: 0.0007914386, y: -2.7075028, z: 0}
+    cameraDelta: {x: 0.6519131, y: 1.7132897, z: 0}
+    alpha: 25.004744
+  - objectPosition: {x: -21.101154, y: -3.2500587, z: 0}
+    cameraDelta: {x: -6.568649, y: 3.1971295, z: 0}
+    alpha: 0.19998908
+  - objectPosition: {x: 8.652745, y: 14.8790045, z: 0}
+    cameraDelta: {x: 8.713871, y: -3.072739, z: 0}
+    alpha: 4.5422244
+  - objectPosition: {x: 9.650263, y: 4.562563, z: 0}
+    cameraDelta: {x: -3.100401, y: 9.668598, z: 0}
+    alpha: 24.090128
+  - objectPosition: {x: -13.097024, y: -1.101908, z: 0}
+    cameraDelta: {x: -1.5961466, y: -1.1207037, z: 0}
+    alpha: 29.356592
+  - objectPosition: {x: 5.7833567, y: -4.449852, z: 0}
+    cameraDelta: {x: 5.6342134, y: 1.7146193, z: 0}
+    alpha: 10.090004
+  - objectPosition: {x: 5.644334, y: 3.7404728, z: 0}
+    cameraDelta: {x: -8.696755, y: 8.178959, z: 0}
+    alpha: 16.701052
+  - objectPosition: {x: 4.4084125, y: -3.7442276, z: 0}
+    cameraDelta: {x: -5.841664, y: -18.586235, z: 0}
+    alpha: 11.243085
+  - objectPosition: {x: -0.21780188, y: -1.6935527, z: 0}
+    cameraDelta: {x: -23.856869, y: -8.459295, z: 0}
+    alpha: 14.287328
+  - objectPosition: {x: 1.3675792, y: 3.8277216, z: 0}
+    cameraDelta: {x: 1.1465011, y: -3.8114536, z: 0}
+    alpha: 20.469917
+  - objectPosition: {x: -2.896774, y: 2.4700441, z: 0}
+    cameraDelta: {x: 1.3131495, y: 2.7941992, z: 0}
+    alpha: 2.5401664
+  - objectPosition: {x: -12.772155, y: 1.830169, z: 0}
+    cameraDelta: {x: 3.4105773, y: 4.1791487, z: 0}
+    alpha: 16.35725
+  - objectPosition: {x: 0.3732109, y: -1.8169347, z: 0}
+    cameraDelta: {x: -5.4375396, y: -7.752938, z: 0}
+    alpha: 24.530046
+  - objectPosition: {x: 0.55206496, y: -3.0833757, z: 0}
+    cameraDelta: {x: 12.890147, y: 16.168564, z: 0}
+    alpha: 24.682077
+  - objectPosition: {x: -21.72994, y: 11.718127, z: 0}
+    cameraDelta: {x: 0.56288284, y: 13.440607, z: 0}
+    alpha: 18.49562
+  - objectPosition: {x: -8.338254, y: 10.431034, z: 0}
+    cameraDelta: {x: -19.626844, y: -0.105298676, z: 0}
+    alpha: 8.285009
+  - objectPosition: {x: 1.8809866, y: 0.42800817, z: 0}
+    cameraDelta: {x: -0.70993155, y: 3.7496233, z: 0}
+    alpha: 28.481949
+  - objectPosition: {x: -4.6721506, y: -5.942439, z: 0}
+    cameraDelta: {x: -3.0324595, y: 18.778666, z: 0}
+    alpha: 14.189699
+  - objectPosition: {x: -16.60357, y: 0.9564189, z: 0}
+    cameraDelta: {x: -2.144259, y: -0.90202326, z: 0}
+    alpha: 27.437485
+  - objectPosition: {x: -14.5287075, y: 1.4918655, z: 0}
+    cameraDelta: {x: 11.320879, y: -18.15733, z: 0}
+    alpha: 8.195002
+  - objectPosition: {x: -0.8634752, y: -13.203829, z: 0}
+    cameraDelta: {x: 0.6084366, y: 11.542862, z: 0}
+    alpha: 7.4184074
+  - objectPosition: {x: -1.230243, y: -0.4688874, z: 0}
+    cameraDelta: {x: 7.510465, y: -16.808413, z: 0}
+    alpha: 12.133264
+  - objectPosition: {x: -17.307142, y: -4.079741, z: 0}
+    cameraDelta: {x: -2.8734481, y: -3.9403222, z: 0}
+    alpha: 22.059385
+  - objectPosition: {x: -15.107134, y: -1.7501861, z: 0}
+    cameraDelta: {x: 2.4989622, y: -8.063544, z: 0}
+    alpha: 10.774028
+  - objectPosition: {x: 13.690831, y: 12.797797, z: 0}
+    cameraDelta: {x: 10.143734, y: 8.275341, z: 0}
+    alpha: 24.260887
+  - objectPosition: {x: -4.22867, y: 27.140898, z: 0}
+    cameraDelta: {x: -15.983094, y: -7.0465727, z: 0}
+    alpha: 9.758326
+  - objectPosition: {x: -6.722875, y: -0.10773792, z: 0}
+    cameraDelta: {x: 2.5695884, y: -5.429611, z: 0}
+    alpha: 10.486513

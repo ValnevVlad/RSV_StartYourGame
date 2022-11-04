@@ -1,0 +1,415 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd817cd0e643417cb62d19aa498f958a, type: 3}
+  m_Name: GeneratorTestData 2
+  m_EditorClassIdentifier: 
+  testingData:
+  - point: {x: -1, y: 8}
+    deltaX: 0.88166904
+    deltaY: 10.606312
+    startPoint: {x: -6.331454, y: 4.5406218, z: 5.115389}
+  - point: {x: -5, y: 23}
+    deltaX: -9.004919
+    deltaY: -0.2461605
+    startPoint: {x: 1.5635022, y: 4.8368597, z: 0.64946836}
+  - point: {x: 5, y: 12}
+    deltaX: -6.0986795
+    deltaY: 14.2836
+    startPoint: {x: 3.3088355, y: 3.1561565, z: 13.968431}
+  - point: {x: 0, y: -3}
+    deltaX: -1.6290684
+    deltaY: -4.26647
+    startPoint: {x: -22.603146, y: -0.71728814, z: -3.6750207}
+  - point: {x: -1, y: 8}
+    deltaX: -3.5729046
+    deltaY: -7.0389585
+    startPoint: {x: -0.2163887, y: -2.669398, z: -1.063979}
+  - point: {x: 12, y: 5}
+    deltaX: 10.137962
+    deltaY: -9.564157
+    startPoint: {x: 5.783721, y: 2.7680476, z: 8.18026}
+  - point: {x: 11, y: -4}
+    deltaX: -7.3298244
+    deltaY: 7.9711704
+    startPoint: {x: 1.0050535, y: -13.389623, z: 12.906987}
+  - point: {x: -13, y: 14}
+    deltaX: -8.032093
+    deltaY: -11.569283
+    startPoint: {x: -7.438666, y: -2.1514692, z: 14.243279}
+  - point: {x: 8, y: 12}
+    deltaX: 10.223196
+    deltaY: -7.719408
+    startPoint: {x: -4.802234, y: 3.4057245, z: 13.202121}
+  - point: {x: -1, y: -1}
+    deltaX: 5.0213566
+    deltaY: 13.329638
+    startPoint: {x: -0.38883805, y: -0.4166966, z: -0.6767549}
+  - point: {x: -1, y: -1}
+    deltaX: -14.913797
+    deltaY: -2.3733597
+    startPoint: {x: 0.06368774, y: -2.957024, z: 2.6275544}
+  - point: {x: -1, y: -2}
+    deltaX: -9.006815
+    deltaY: 9.900913
+    startPoint: {x: 9.297905, y: -9.910449, z: -0.26907244}
+  - point: {x: -12, y: 16}
+    deltaX: 2.993225
+    deltaY: -5.896188
+    startPoint: {x: 2.6208932, y: -0.05581508, z: -5.8988647}
+  - point: {x: -2, y: 1}
+    deltaX: -3.6426706
+    deltaY: -13.824506
+    startPoint: {x: 7.1685853, y: 0.13824622, z: -7.8762426}
+  - point: {x: -1, y: 2}
+    deltaX: -7.5087333
+    deltaY: -2.478012
+    startPoint: {x: 0.59170675, y: -1.9185694, z: 4.8537254}
+  - point: {x: 3, y: -5}
+    deltaX: 4.541216
+    deltaY: 7.0465126
+    startPoint: {x: 7.7285357, y: -2.4891658, z: -5.432817}
+  - point: {x: 1, y: 3}
+    deltaX: 6.050709
+    deltaY: 6.1755505
+    startPoint: {x: -17.140856, y: 2.803413, z: -1.932143}
+  - point: {x: -3, y: 1}
+    deltaX: -6.188999
+    deltaY: 6.6927986
+    startPoint: {x: 1.494061, y: 0.6303122, z: 0.6837305}
+  - point: {x: -7, y: -10}
+    deltaX: -13.4376955
+    deltaY: -3.835414
+    startPoint: {x: -17.714912, y: -7.5361967, z: -10.023467}
+  - point: {x: -1, y: 1}
+    deltaX: 6.728075
+    deltaY: 0.3406458
+    startPoint: {x: 18.498259, y: -19.8111, z: -1.8911123}
+  - point: {x: 2, y: 0}
+    deltaX: 14.619802
+    deltaY: 9.5727215
+    startPoint: {x: 2.173627, y: 18.890589, z: 1.0554014}
+  - point: {x: 0, y: 0}
+    deltaX: -1.0654716
+    deltaY: -5.3534117
+    startPoint: {x: -4.8144493, y: -9.1109495, z: -1.1876668}
+  - point: {x: 2, y: -15}
+    deltaX: 1.5999966
+    deltaY: 6.3324776
+    startPoint: {x: -3.098938, y: 1.9694521, z: 3.4723978}
+  - point: {x: -15, y: -1}
+    deltaX: -14.844185
+    deltaY: -10.279294
+    startPoint: {x: -1.2793237, y: -4.416135, z: -10.4538765}
+  - point: {x: -1, y: -4}
+    deltaX: 2.565771
+    deltaY: -13.641243
+    startPoint: {x: 1.8701401, y: -4.0949154, z: 1.8651164}
+  - point: {x: -9, y: 6}
+    deltaX: 6.9818687
+    deltaY: -12.269343
+    startPoint: {x: -5.085838, y: -6.905108, z: 0.53506285}
+  - point: {x: -5, y: -27}
+    deltaX: 12.445086
+    deltaY: -11.316762
+    startPoint: {x: -9.134756, y: 0.73874265, z: -8.912487}
+  - point: {x: 1, y: 1}
+    deltaX: -13.905981
+    deltaY: 13.896446
+    startPoint: {x: -0.9337498, y: -0.2988522, z: 1.1904745}
+  - point: {x: 15, y: 6}
+    deltaX: 8.072647
+    deltaY: -7.74559
+    startPoint: {x: 1.3619691, y: 6.740239, z: -5.3973556}
+  - point: {x: 0, y: 7}
+    deltaX: 5.961792
+    deltaY: -7.8389063
+    startPoint: {x: -4.7570367, y: 2.2835171, z: -2.936493}
+  - point: {x: 5, y: -1}
+    deltaX: 0.60241127
+    deltaY: -5.5407305
+    startPoint: {x: -0.10651908, y: -0.106356554, z: 0.6245193}
+  - point: {x: 0, y: 10}
+    deltaX: 13.143238
+    deltaY: 10.187988
+    startPoint: {x: -0.346633, y: 3.3361008, z: -3.4499133}
+  - point: {x: -6, y: 6}
+    deltaX: 0.9656868
+    deltaY: 5.6972847
+    startPoint: {x: 3.8802838, y: -1.1297828, z: -4.096723}
+  - point: {x: -1, y: -17}
+    deltaX: 7.0307884
+    deltaY: 12.972353
+    startPoint: {x: 3.7778783, y: 15.679173, z: 8.131574}
+  - point: {x: -1, y: 1}
+    deltaX: 7.9878693
+    deltaY: 12.618183
+    startPoint: {x: 0.6057206, y: -0.94592786, z: -0.4384248}
+  - point: {x: 17, y: -5}
+    deltaX: 4.168474
+    deltaY: 4.9996986
+    startPoint: {x: 11.441363, y: -13.448951, z: 5.0704117}
+  - point: {x: 14, y: 1}
+    deltaX: 12.842976
+    deltaY: -11.201896
+    startPoint: {x: -11.884149, y: -2.566035, z: -0.2977813}
+  - point: {x: 3, y: -4}
+    deltaX: 8.903421
+    deltaY: -13.548946
+    startPoint: {x: -10.036485, y: -6.9669676, z: -2.7238073}
+  - point: {x: -1, y: 24}
+    deltaX: -8.834517
+    deltaY: -13.313942
+    startPoint: {x: 8.059656, y: -4.704522, z: -5.6803126}
+  - point: {x: -8, y: -12}
+    deltaX: -4.0572968
+    deltaY: 12.7532425
+    startPoint: {x: -5.3175344, y: -2.310661, z: 6.4514165}
+  - point: {x: -10, y: 0}
+    deltaX: 1.9498386
+    deltaY: -11.847982
+    startPoint: {x: -5.587289, y: 9.224575, z: -5.8696737}
+  - point: {x: 6, y: 8}
+    deltaX: 10.501263
+    deltaY: -14.185142
+    startPoint: {x: 0.86309063, y: 0.8020026, z: 1.1793121}
+  - point: {x: -3, y: -17}
+    deltaX: 11.871431
+    deltaY: 14.959705
+    startPoint: {x: 2.8783724, y: 3.12691, z: 11.764377}
+  - point: {x: -19, y: 1}
+    deltaX: 10.387466
+    deltaY: -4.454772
+    startPoint: {x: -9.462321, y: 5.627843, z: 2.6228435}
+  - point: {x: 1, y: 5}
+    deltaX: 4.60623
+    deltaY: -11.945307
+    startPoint: {x: 12.149345, y: -2.0676177, z: -14.470326}
+  - point: {x: -8, y: 10}
+    deltaX: 9.099094
+    deltaY: 13.3260975
+    startPoint: {x: -0.20107524, y: -0.39987385, z: 1.1211343}
+  - point: {x: -2, y: -1}
+    deltaX: -10.944339
+    deltaY: 13.57015
+    startPoint: {x: -1.6877424, y: -9.562145, z: -10.577334}
+  - point: {x: -1, y: -2}
+    deltaX: 7.658268
+    deltaY: 10.860718
+    startPoint: {x: 10.507972, y: -1.0728782, z: 0.45152754}
+  - point: {x: -9, y: -2}
+    deltaX: 3.241867
+    deltaY: 5.791744
+    startPoint: {x: 2.1082685, y: -0.5526955, z: -0.21579503}
+  - point: {x: -12, y: -8}
+    deltaX: -10.981017
+    deltaY: 7.2541485
+    startPoint: {x: 5.3027334, y: 0.7525567, z: 6.6930175}
+  - point: {x: -13, y: -12}
+    deltaX: -3.708023
+    deltaY: 8.435284
+    startPoint: {x: 3.296598, y: -6.607024, z: 1.0039445}
+  - point: {x: 0, y: 20}
+    deltaX: 7.082079
+    deltaY: 1.2057514
+    startPoint: {x: 22.320938, y: -7.117054, z: -10.28518}
+  - point: {x: 7, y: -12}
+    deltaX: -14.079777
+    deltaY: -6.6556854
+    startPoint: {x: -1.85413, y: -4.0257893, z: -5.4428506}
+  - point: {x: -1, y: -2}
+    deltaX: -13.596114
+    deltaY: 0.047956467
+    startPoint: {x: 6.6071844, y: -3.0653474, z: 16.078773}
+  - point: {x: -1, y: -2}
+    deltaX: -5.1925764
+    deltaY: -12.120184
+    startPoint: {x: 2.0933049, y: -4.461219, z: -1.9192597}
+  - point: {x: 1, y: 24}
+    deltaX: -7.7168226
+    deltaY: -3.0313025
+    startPoint: {x: -9.714447, y: 4.868942, z: 1.5006474}
+  - point: {x: 3, y: -3}
+    deltaX: -14.091425
+    deltaY: -2.4858875
+    startPoint: {x: 1.836368, y: 2.0315874, z: -0.90497994}
+  - point: {x: 5, y: 6}
+    deltaX: 1.5090599
+    deltaY: 1.3474369
+    startPoint: {x: -1.6646225, y: 4.311355, z: 0.60452753}
+  - point: {x: 5, y: 19}
+    deltaX: -14.617077
+    deltaY: 5.660366
+    startPoint: {x: -21.210512, y: 7.963324, z: 1.1721855}
+  - point: {x: -4, y: 3}
+    deltaX: -10.018677
+    deltaY: -13.318019
+    startPoint: {x: -2.7074473, y: -1.0124232, z: -11.962488}
+  - point: {x: -9, y: -16}
+    deltaX: 13.236393
+    deltaY: -0.5868263
+    startPoint: {x: 1.4235109, y: -0.72407573, z: -23.05679}
+  - point: {x: 16, y: -17}
+    deltaX: -2.6931362
+    deltaY: 6.728092
+    startPoint: {x: -0.22418857, y: -1.9771435, z: -4.4142175}
+  - point: {x: 9, y: 6}
+    deltaX: 14.7939
+    deltaY: -6.425005
+    startPoint: {x: 22.549702, y: 1.8996049, z: 7.112903}
+  - point: {x: 4, y: -8}
+    deltaX: 13.1465645
+    deltaY: -10.033869
+    startPoint: {x: 10.731656, y: -2.017318, z: -3.778804}
+  - point: {x: -3, y: 1}
+    deltaX: 5.1267815
+    deltaY: 7.0229855
+    startPoint: {x: 4.6475205, y: -6.325721, z: -8.628638}
+  - point: {x: -3, y: -3}
+    deltaX: 14.6093445
+    deltaY: -14.2725525
+    startPoint: {x: 12.2300625, y: -7.735617, z: 0.69122386}
+  - point: {x: 4, y: 0}
+    deltaX: 6.171299
+    deltaY: -12.312774
+    startPoint: {x: -0.8282475, y: 0.066933036, z: -1.4193835}
+  - point: {x: -4, y: -4}
+    deltaX: 3.591093
+    deltaY: -12.51955
+    startPoint: {x: 15.721839, y: 6.3711505, z: 19.591824}
+  - point: {x: -6, y: -8}
+    deltaX: -8.162398
+    deltaY: -8.964314
+    startPoint: {x: -11.938496, y: 10.660268, z: -4.156098}
+  - point: {x: -2, y: -5}
+    deltaX: 12.180618
+    deltaY: 8.444889
+    startPoint: {x: 1.2541269, y: -9.201623, z: 14.301884}
+  - point: {x: 18, y: 1}
+    deltaX: -5.7845364
+    deltaY: -7.8368783
+    startPoint: {x: 4.133249, y: 5.4458447, z: -6.6069646}
+  - point: {x: 12, y: -16}
+    deltaX: -14.106964
+    deltaY: -3.7531633
+    startPoint: {x: -0.31411582, y: -2.2587066, z: -10.666113}
+  - point: {x: 0, y: 0}
+    deltaX: -6.4304514
+    deltaY: -12.932406
+    startPoint: {x: -15.484328, y: 10.427966, z: -13.661145}
+  - point: {x: 2, y: 12}
+    deltaX: 14.270958
+    deltaY: 4.1589546
+    startPoint: {x: -11.310759, y: 1.2184294, z: -3.132471}
+  - point: {x: -19, y: -21}
+    deltaX: -12.27057
+    deltaY: -2.4144297
+    startPoint: {x: 1.4380676, y: 3.6772985, z: -3.1835737}
+  - point: {x: -16, y: 3}
+    deltaX: -8.33681
+    deltaY: -7.490017
+    startPoint: {x: -1.0685401, y: -19.695742, z: 5.3090982}
+  - point: {x: -2, y: 5}
+    deltaX: -13.398571
+    deltaY: -7.360198
+    startPoint: {x: 16.405905, y: -15.014197, z: 13.452218}
+  - point: {x: -3, y: 1}
+    deltaX: 5.2726936
+    deltaY: 9.711428
+    startPoint: {x: -9.6251335, y: -3.45551, z: -12.180763}
+  - point: {x: 0, y: -3}
+    deltaX: 3.9452782
+    deltaY: 5.634924
+    startPoint: {x: -4.6169844, y: -3.7280464, z: -10.139313}
+  - point: {x: 5, y: -2}
+    deltaX: 6.910021
+    deltaY: 9.409601
+    startPoint: {x: 18.027517, y: -19.404995, z: 4.5621343}
+  - point: {x: 16, y: -1}
+    deltaX: -14.107254
+    deltaY: -7.0383615
+    startPoint: {x: -8.966236, y: 10.757574, z: -6.975985}
+  - point: {x: 22, y: -9}
+    deltaX: 8.919136
+    deltaY: 10.474552
+    startPoint: {x: -0.084666304, y: -0.057845313, z: -1.7099612}
+  - point: {x: -8, y: 4}
+    deltaX: 2.7742958
+    deltaY: 10.262424
+    startPoint: {x: -3.0946023, y: -19.01268, z: 2.8007648}
+  - point: {x: 0, y: 0}
+    deltaX: -14.90107
+    deltaY: -10.268583
+    startPoint: {x: -2.9620335, y: -1.8645587, z: -1.562353}
+  - point: {x: -8, y: 4}
+    deltaX: -3.0719748
+    deltaY: 11.105772
+    startPoint: {x: -9.763484, y: 0.28674725, z: 7.2684326}
+  - point: {x: -9, y: 4}
+    deltaX: -5.884329
+    deltaY: -11.200143
+    startPoint: {x: -13.377355, y: 17.721039, z: -9.488637}
+  - point: {x: -17, y: -5}
+    deltaX: 13.932474
+    deltaY: -9.159926
+    startPoint: {x: -4.414855, y: 2.019182, z: -2.6506824}
+  - point: {x: 20, y: -1}
+    deltaX: 0.6041565
+    deltaY: 10.59601
+    startPoint: {x: -0.6756261, y: 1.5008621, z: 2.3744817}
+  - point: {x: -9, y: -3}
+    deltaX: 7.4762173
+    deltaY: 1.1944618
+    startPoint: {x: -1.1274164, y: 2.7435563, z: -2.2872}
+  - point: {x: -18, y: 0}
+    deltaX: 5.3103695
+    deltaY: -0.3168993
+    startPoint: {x: -2.1825485, y: -2.361668, z: 0.77194095}
+  - point: {x: 0, y: -12}
+    deltaX: -14.248277
+    deltaY: -0.19299603
+    startPoint: {x: -0.0026956685, y: -2.7192369, z: 1.2295902}
+  - point: {x: -2, y: -3}
+    deltaX: -4.4124327
+    deltaY: -14.693116
+    startPoint: {x: -3.1259212, y: 3.3010826, z: -17.20119}
+  - point: {x: -14, y: -1}
+    deltaX: -6.8367414
+    deltaY: 12.278198
+    startPoint: {x: -0.9714262, y: 0.2887086, z: 2.5189292}
+  - point: {x: -4, y: -8}
+    deltaX: -0.8958597
+    deltaY: -10.078429
+    startPoint: {x: 0.07981928, y: -2.9399707, z: 1.5465322}
+  - point: {x: -1, y: 5}
+    deltaX: 6.0011463
+    deltaY: -13.972942
+    startPoint: {x: -0.55113435, y: 15.599135, z: 0.08475529}
+  - point: {x: 4, y: 1}
+    deltaX: -1.9120483
+    deltaY: 7.693222
+    startPoint: {x: -6.573232, y: -1.4989021, z: -20.670074}
+  - point: {x: 0, y: 25}
+    deltaX: -9.906607
+    deltaY: -10.629745
+    startPoint: {x: -1.8608587, y: 0.6871342, z: 1.529631}
+  - point: {x: 2, y: -7}
+    deltaX: 5.8790665
+    deltaY: -11.47149
+    startPoint: {x: 1.9438841, y: -0.42706245, z: -2.268761}
+  - point: {x: 2, y: 16}
+    deltaX: -9.0559635
+    deltaY: 14.891195
+    startPoint: {x: -2.9593806, y: -3.5500307, z: 1.7201132}
+  - point: {x: 0, y: -1}
+    deltaX: 3.8698654
+    deltaY: 6.993067
+    startPoint: {x: 7.599175, y: -6.775986, z: 10.565126}

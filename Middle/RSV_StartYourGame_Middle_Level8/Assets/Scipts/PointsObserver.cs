@@ -56,12 +56,4 @@ public class PointsObserver : MonoBehaviour
             _timer = _lookDelay;
         }
     }
-
-    private void OnTriggerEnter(Collider other)
-    {
-        if (other.TryGetComponent(out Player player))
-        {
-            player.Kill();
-        }
-    }
 }
