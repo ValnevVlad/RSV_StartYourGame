@@ -6,7 +6,7 @@ namespace RSV_StartYourGame_JuniourLevel6
 {
     class MainClass
     {
-        static int[] trajectory1 = {1, 3, 4, 3, 6, 3, 6, 1, 4, 2, 5, 5, 3, 5, 1};
+        static int[] trajectory1 = { 1, 3, 4, 3, 6, 3, 6, 1, 4, 2, 5, 5, 3, 5, 1 };
         static int[] trajectory2 = {1, 6, 4, 1, 4, 4, 6, 5, 1, 2, 2, 1, 2, 3, 5};
 
         static int[] properties = { 9, 20, 33, 17, 37, 53 };
